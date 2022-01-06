@@ -1,0 +1,266 @@
+/*navbar styles*/
+
+#navbar{
+    background-color: #E5E5E5;
+    border-radius: 30px 30px 0px 0px;
+}
+
+.nav, .nav_item{
+display: inline-block;
+}
+
+.nav_item a{
+    color: #1F1534;
+    text-decoration: none;
+}
+
+.logo{
+    margin: 150px;
+    text-decoration: none;
+    color: #233348;
+    font-size: 20px;
+}
+
+.logoname{
+    display: inline-block;
+    width: 52%;
+}
+
+.navname{
+    display: inline-block;
+    width: 40%;
+}
+
+/* Header styles */
+
+#header-section{
+    background-color: #E5E5E5;
+    text-align: center;
+    border-radius: 0px 0px 30px 30px;
+}
+
+#header-section a{
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+}
+
+.box-1{
+    display: inline-block;
+    width: 40%;
+}   
+
+.box-1 h1, .box-1 p{
+    width: 60%;
+    text-align: justify;
+}
+
+.box-2{
+    vertical-align: middle;
+    display: inline-block;
+    width: 40%;
+}
+
+.box-2 img{
+    width: 100%;
+}
+
+/*second section*/
+
+#category-section{
+    background-color: #E5E5E5;
+    border: solid white;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.team-name{
+    font-size: 20px;
+    text-align: center;
+}
+
+.text{
+    font-size: 15px;
+    text-align: center;
+}
+
+.boxone, .boxtwo, .boxthree{
+    display: inline-block;
+    width: 30%;
+    height: 200px;
+    margin: 10px;
+    border: solid white;
+    border-radius: 20px;
+    vertical-align: top;
+    background-color: white;
+} 
+
+.boxfour, .boxfive, .boxsix{
+    display: inline-block;
+    width: 30%;
+    height: 200px;
+    margin: 10px;
+    border: solid white;
+    border-radius: 20px;
+    vertical-align: bottom;
+    background-color: white;
+}
+
+.boxsix img, .boxfive img, .boxfour img, .boxthree img, .boxtwo img, .boxone img{
+    display: inline-block;
+    width: 10%;
+    margin: 20px;
+    text-align: legt;
+}
+
+.boxsix h2, .boxfive h2, .boxfour h2, .boxthree h2, .boxtwo h2{
+    font-size: 18px;
+    text-align: justify;
+    margin: 10px;
+}
+
+.boxsix p, .boxfive p, .boxfour p, .boxthree p, .boxtwo p{
+    font-size: 10px;
+    text-align: justify;
+    margin: 10px;
+}
+
+/*third section*/
+
+#third-section{
+    background-color: #E5E5E5;
+    text-align: center;
+    border: solid white;
+    border-radius: 30px;
+}
+
+#third-section a {
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+}
+
+.third-2{
+    display: inline-block;
+    width: 40%;
+}   
+
+.third-2 h1, .third-2 p{
+    width: 50%;
+    text-align: justify;
+}
+
+.third-1{
+    vertical-align: middle;
+    display: inline-block;
+    width: 58%;
+}
+
+#four-section {
+    background-color: #E5E5E5;
+    text-align: center;
+    border: solid white;
+    border-radius: 30px;
+}
+
+#four-section a{
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+}
+
+.four-1{
+    display: inline-block;
+    width: 40%;
+}   
+
+.four-1 h1, .four-1 p{
+    width: 60%;
+    text-align: justify;
+}
+
+.four-2{
+    vertical-align: middle;
+    display: inline-block;
+    width: 40%;
+}
+
+.four-2 img{
+    width: 100%;
+}
+
+/*end section*/
+
+#end-section{
+    background-color: #67C3F3;
+    border: solid white;
+    border-radius: 30px;
+    text-align: center;
+    color: white;
+}
+
+.end-1{
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+}
+
+.end-pic{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.end-item{
+    display: inline-block;
+    vertical-align: middle;  
+    text-align: justify;
+}
+
+.end-2{
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+    text-align: center;
+}
+
+.end-2 p{
+    font-size: 20px;
+    text-align: justify;
+    width: 100%;
+}
+
+/*the end section*/
+
+#theend-section{
+    background-color: #E5E5E5;
+    border: solid white;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.theend-1, .theend-2, .theend-3{
+    display: inline-block;
+    width: 30%;
+    margin: 20px;
+    vertical-align: top;
+    text-align: center;
+}
+
+.theend-1 img, .theend-2 img, .theend-3 img{
+    width: 100%;
+}
+
+.theend-1 h2, .theend-2 h2, .theend-3 h2, .theend-1 p, .theend-2 p, .theend-3 p {
+    text-align: justify;
+}
+
+.theend-1 a, .theend-2 a, .theend-3 a{
+    text-decoration: none;
+    font-size: 13px;
+}
+
+#theend-section a{
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+}
